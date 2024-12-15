@@ -257,7 +257,7 @@ kubectl argo rollouts undo delhivery-rollouts
 
 ## CI/CD Pipeline Flow
 
-[Space for CI/CD flow diagram]
+<img src="https://github.com/user-attachments/assets/5232ac1c-633f-4b52-a36b-974977d495aa" width="90%"></img> 
 
 ## Conclusion
 This implementation demonstrates:
