@@ -253,7 +253,7 @@ kubectl argo rollouts undo delhivery-rollouts
 
 ## Project Architecture
 
-[Space for architecture diagram]
+<img src="https://github.com/user-attachments/assets/d60acb46-6922-45af-a005-501ca26c975e" width="90%"></img> 
 
 ## CI/CD Pipeline Flow
 
